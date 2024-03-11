@@ -17,4 +17,4 @@ reverse.o:reverse.c
 sort.o:sort.c
 	gcc -c sort.c
 sum2.o:sum2.c
-	gcc -c sum2.c  
+	gcc -c sum2.c
